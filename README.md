@@ -31,3 +31,8 @@ The final sample contained 272 records.
 ### Accuracy ###
 
 Learning accuracy was 0.75. I think it should be nice for first ever machine learning project.
+
+### Next Steps ###
+* Connect to Spotify WEB Api to feed data from Spotify directly instead of using csv-files.
+* Enable continuos learning based on "I don't like this song" playlist on Spotify.
+* Add search on Spotify for songs to return probability I would like them.
